@@ -1,5 +1,8 @@
 {
-  "name": "myproject",
+  "name": "@zakariabinsaifullah/myproject",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/zakariabinsaifullah"    
+  },
   "version": "1.0.0",
   "description": "a test component",
   "main": "dist/index.js",
