@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/zakariabinsaifullah"
   },
-  "version": "2.5.0",
+  "version": "2.6.0",
   "description": "a test component",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
